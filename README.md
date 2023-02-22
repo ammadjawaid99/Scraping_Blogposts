@@ -1,4 +1,4 @@
-# Scraping_Blogposts
+# Scrape Blog Posts
 This script automates extracting the blog posts from website. This also uses website's RSS feed and all the blogs within are scraped into organized folder in a .txt file. The websites which can be used (more websites could be added as well!) to scrape the blog posts from are **www.zdnet.com** and **www.gadgets360.com**.
 
 ### Requirements
